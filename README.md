@@ -1,0 +1,1 @@
+# Minimalist Firefox startpage
